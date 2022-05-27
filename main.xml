@@ -1,0 +1,246 @@
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#21BFCF"
+        android:orientation="vertical"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"/>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textColor="#000102"
+                android:textStyle="bold"
+                android:paddingLeft="100dp"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="yajl-objc"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:paddingTop="10dp"
+                android:gravity="center"
+                android:textStyle="italic"
+                android:text="Objective-C bindings for YAJL (Yet Another JSON Library) C library"
+                />
+
+        </RelativeLayout>
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"/>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textColor="#000102"
+                android:textStyle="bold"
+                android:paddingLeft="100dp"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="simplerrd"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:paddingTop="10dp"
+                android:gravity="center"
+                android:textStyle="italic"
+                android:text="SimpleRRD provides a simple Ruby interface for creating graphs with RRD"
+                />
+
+        </RelativeLayout>
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"/>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textColor="#000102"
+                android:textStyle="bold"
+                android:paddingLeft="100dp"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="gh-unit"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:paddingTop="10dp"
+                android:gravity="center"
+                android:textStyle="italic"
+                android:text="Test Framework for Objective-C"
+                />
+
+        </RelativeLayout>
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"/>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textColor="#000102"
+                android:textStyle="bold"
+                android:paddingLeft="100dp"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="plastic"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingTop="10dp"
+                android:text="Credit card (“plastic”) library for Ruby"
+                android:textSize="20dp"
+                android:textStyle="italic" />
+
+        </RelativeLayout>
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"/>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textColor="#000102"
+                android:textStyle="bold"
+                android:paddingLeft="100dp"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ftpfxp"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:paddingTop="10dp"
+                android:gravity="center"
+                android:textStyle="italic"
+                android:text="ftpfxp, with patch"
+                />
+
+        </RelativeLayout>
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"/>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textColor="#000102"
+                android:textStyle="bold"
+                android:paddingLeft="100dp"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="fundraiser"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:paddingTop="10dp"
+                android:gravity="center"
+                android:textStyle="italic"
+                android:text=" "
+                />
+
+        </RelativeLayout>
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"/>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textColor="#000102"
+                android:textStyle="bold"
+                android:paddingLeft="100dp"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="rack-geo"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:paddingTop="10dp"
+                android:gravity="center"
+                android:textStyle="italic"
+                android:text="Rack middleware for parsing Geo-Position HTTP headers."
+                />
+
+        </RelativeLayout>
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"/>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textColor="#000102"
+                android:textStyle="bold"
+                android:paddingLeft="100dp"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="rack-time-zone-header"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:paddingTop="10dp"
+                android:gravity="center"
+                android:textStyle="italic"
+                android:text="Rack middleware for parsing Time-Zone HTTP request headers."
+                />
+
+        </RelativeLayout>
+
+
+
+
+    </LinearLayout>
+</ScrollView>
